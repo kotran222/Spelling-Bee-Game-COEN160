@@ -1,0 +1,15 @@
+ESSENTIAL:
+d
+JUMBLE:
+g
+v
+i
+l
+n
+u
+RESULTS:
+dining
+diving
+livid
+guild
+digging

@@ -1,0 +1,19 @@
+Design ideas:
+Chosen one letter must be included in user's inputted word.
+Other 6 additional letters can be included or not depending on word.
+Outputs word is not in the list if word inputted is not in dictionary
+
+
+Documentation:
+
+
+
+
+References
+https://www.nytimes.com/puzzles/spelling-bee
+
+https://www.w3schools.com/java/java_files_read.asp
+
+https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
+https://www.journaldev.com/33297/java-list-add-addall-methods
+
